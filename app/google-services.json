@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "578716850020",
+    "firebase_url": "https://my-application-aaff8.firebaseio.com",
+    "project_id": "my-application-aaff8",
+    "storage_bucket": "my-application-aaff8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578716850020:android:a82fe2e04ffe038b50cc71",
+        "android_client_info": {
+          "package_name": "com.puldroid.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578716850020-ka3tigdqbd9tblm7k73gh4ai7l3bqmj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puldroid.myapplication",
+            "certificate_hash": "a5a4ae3a97252f9da9c3954c098bb02fb455551b"
+          }
+        },
+        {
+          "client_id": "578716850020-rff33ph3t5eg0k79pept3l6lra78g1q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcFjcaZYnORmSMxfLJyPA2Op84OWUqpoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578716850020-rff33ph3t5eg0k79pept3l6lra78g1q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
